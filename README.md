@@ -1,1 +1,1 @@
-Мой первый проект на Хекслете
+Hello, Hexlet! How are you?
