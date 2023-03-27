@@ -11,10 +11,11 @@
     "type": "git",
     "url": "https://github.com/TimohaViki/hexlet-js-.git"
   },
-  "author": "Victoriya Balova",
+  "author": "TimohaViki",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TimohaViki/hexlet-js-/issues"
+    "email": "vr.timoha@gmail.com"
   },
   "homepage": "https://github.com/TimohaViki/hexlet-js-#readme"
 }
